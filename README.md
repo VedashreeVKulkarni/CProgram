@@ -2,5 +2,7 @@
 
 ## Functions
 ## Pointers
-## Data types
-##Arrays
+## Arrays and Strings
+## Structure and Union
+
+
